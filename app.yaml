@@ -1,0 +1,3 @@
+runtime: go
+service: flexmiddleware
+env: flex
